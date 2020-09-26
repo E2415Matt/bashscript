@@ -1,2 +1,7 @@
-This is the test file for newly created bashscript repository
+#! /bin/bash
+clear
+echo "This is the test file for newly created shell script repository"
+sleep 3
+clear
+
 
